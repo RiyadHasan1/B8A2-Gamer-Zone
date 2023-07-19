@@ -60,13 +60,13 @@ nav {
 .menu {
     position: absolute;
     top: 28px;
-    right: 534px;
+    right: 360px;
 }
 .follow-bar {
     border-radius: 8px;
     background: rgba(11, 2, 35, 0.10);
     position: absolute;
-    right: 270px;
+    right: 100px;
     top: 26px;
     height: 30px;
 }

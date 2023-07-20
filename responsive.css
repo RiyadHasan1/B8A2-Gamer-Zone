@@ -1,0 +1,222 @@
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+@media screen and (max-width:576px){
+    .col-6 {
+	    flex: 0 0 auto;
+	    width: 50%;
+   }
+    .col-12 {
+	    flex: 0 0 auto;
+	    width: 100%;
+   }
+
+   .col-5 {
+	    flex: 0 0 auto;
+	    width: 41%;
+   }
+   .col-4 {
+    flex: 0 0 auto;
+    width: 25%;
+}
+   .col-7 {
+	    flex: 0 0 auto;
+	    width: 58%;
+   }
+   .col-2 {
+	    flex: 0 0 auto;
+	    width: 16%;
+   }
+   .col-3 {
+	    flex: 0 0 auto;
+	    width: 25%;
+   }
+.gamer-img img {
+    width: 100%;
+}
+.gamer-content p {
+    text-align: center;
+}
+.gamer-content h2 {
+    text-align: center;
+}
+.gamer-content {
+    padding-top: 70px;
+    text-align: center;
+}
+.gamer-section {
+    background: #fff;
+}
+.gamer-content h3 {
+    padding-top: 30px;
+}
+.video-section {
+    padding: 0;
+}
+.video-content h2 {
+    font-size: 35px;
+    text-align: center;
+}
+.video-content p {
+    font-size: 17px;
+    padding-top: 12px;
+}
+.box {
+    display: grid;
+}
+.video p {
+    font-size: 12px;
+    font-weight: 800;
+    padding-top: 10px;
+    padding-bottom: 29px;
+}
+.play-content h2 {
+    text-align: center;
+}
+.play-section-2 {
+    flex-direction: column-reverse;
+}
+.play-content p {
+    text-align: center;
+    padding-top: 30px;
+}
+.play-content {
+    text-align: center;
+    padding-left: 0px;
+    padding-top: 0px;
+}
+img.img-1 {
+    padding-left: 80px;
+    width: 400px;
+    padding-top: 20px;
+    height: 400px;
+}
+img.img-2 {
+    right: 362px;
+    top: 285px;
+    width: 180px;
+    height: 180px;
+}
+img.img-3 {
+    padding-left: 80px;
+    width: 400px;
+    padding-top: 20px;
+    height: 400px;
+}
+img.img-4 {
+    right: 0px;
+    top: 285px;
+    width: 180px;
+    height: 180px;
+    left: 362px;
+}
+.careers-content h3 {
+    font-size: 40px;
+    line-height: 50px;
+}
+.careers-content p {
+    font-size: 15px;
+}
+.careers-content {
+    padding: 5px;
+    padding-top: 50px;
+}
+.locations {
+    text-align: center;
+
+}
+.careers-img img {
+    width: 650px;
+    height: 650px;
+}
+.action-games h4 a {
+    font-size: 13px;
+    padding: 0px;
+}
+.action-games img {
+    padding: 5px;
+}
+.footer-social ul {
+    flex-wrap: wrap;
+    padding-left: 45px;
+}
+.footer-terms ul {
+    flex-wrap: wrap;
+    padding-left: 50px;
+}
+.footer-terms ul li {
+    padding: 0px;
+    padding-top: 20px;
+}
+.footer-terms ul li a {
+    font-size: 13px;
+}
+.copy-right {
+    font-size: 13px;
+    padding-left: 35px;
+}
+.footer-nav ul li {
+    padding: 10px;
+}
+.footer-nav ul {
+    padding-left: 65px;
+    flex-wrap: wrap;
+}
+
+
+
+
+
+
+
+
+
+}
+@media screen and (min-width:576px) and (max-width:960px){
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Sm divice:550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px){
+
+}
+/* small mobile :320px. */
+/* Extra-small-divice :320px. */
+@media (max-width: 767px) {
+
+}
+/* Tablet desktop :768px. */
+/* MD-divice :768px. */
+@media (min-width: 768px) and (max-width: 991px){
+
+}
+/* LG-divice :992px. */
+@media (min-width: 992px) and (max-width: 1200px){
+
+}
